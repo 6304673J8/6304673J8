@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Final Uni Project Using VR
 - 🌱 I’m currently learning Unity and UE5
 
-![git-stat-langs](https://github-readme-stats.vercel.app/api?username=Deanioche&count_private=true&show_icons=true&theme=buefy&hide_border=true)
+![git-stat-langs](https://github-readme-stats.vercel.app/api?username=6304673J8&count_private=true&show_icons=true&theme=buefy&hide_border=true)
 
 - 📫 How to reach me: xr.vr.celona@gmail.com
 - 🤔 I’m looking for help with : 3D Assets and Level Design !
